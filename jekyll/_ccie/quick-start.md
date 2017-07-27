@@ -14,7 +14,7 @@ This guide describes how to set up a project and provides a primer on configurat
 
 ## Prerequisites
 
-- To add a project, you must have a GitHub or GitHub Enterprise account.
+To add a project, you must have a GitHub or GitHub Enterprise account.
 
 ## Adding a Project
 
